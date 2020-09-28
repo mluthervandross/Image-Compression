@@ -1,6 +1,6 @@
 # Introduction
 This project mainly dedicated to show how [Google Compression](https://github.com/tensorflow/compression), in which they introduced context-based entropy model for
-image compression using deep learning, realize their work! And their websie lies in [tensorflow.github.io/compression](tensorflow.github.io/compression), and IN THE VERY BEGINING OF THE END, more description of there work shows in my [blog](https://mluthervandross.github.io/mlv/)💪🏿💪🏿💪🏿!!!
+image compression using deep learning, realize their work! And their websie lies in [tensorflow.github.io/compression](tensorflow.github.io/compression), and IN THE VERY BEGINING OF THE END, more descriptions will be shown in my [blog](https://mluthervandross.github.io/mlv/)💪🏿💪🏿💪🏿!!!
 
 # Installation
 ***Note: Precompiled packages are currently only provided for Linux (Python 2.7, 3.3-3.6) and Darwin/Mac OS (Python 2.7, 3.7). To use these packages on Windows, consider using a TensorFlow Docker image and installing tensorflow-compression using pip inside the [Docker container](https://www.tensorflow.org/install/docker).***
