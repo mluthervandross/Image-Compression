@@ -15,7 +15,7 @@ pip install tensorflow-gpu==1.15
 ```
 
 ***Furthermore***  
-***you must first download changed pip package for tensorflow-compression in pipackages***
+***you must first download changed pip package for tensorflow-compression in pipackages***  
 For correctly using my precompiled binary pip package, you must first download the wheel file and then install it with
 ```shell
 pip install tensorflow_compression-*.whl
